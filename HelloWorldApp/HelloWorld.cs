@@ -9,7 +9,9 @@ namespace HelloWorldApp
     {
         public string SayHelloWorld()
         {
-            return "HelloWorld";
+            string helloWorld = @"HelloWorld";
+            // Some Comment
+            return helloWorld;
         }        
     }
 }
